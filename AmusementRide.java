@@ -1,3 +1,4 @@
+// This is an aesomly awesome test 
 public class AmusementRide
 {
     // instance variables
