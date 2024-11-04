@@ -1,4 +1,3 @@
-// This is an aesomly awesome test 
 public class AmusementRide
 {
     // instance variables
@@ -26,5 +25,21 @@ public class AmusementRide
          YOU WILL GET A PERFECT SCORE.  NO USE OF AI FOR THIS
          PROJECT.
         */
+       
+       // Age check
+       if (age >= 10)
+       {
+       // Height check
+         if (height >= 140)
+         {
+       // Health Check     
+            if (healthCondition == false)
+            {
+                return true ;
+            }
+         }
+       }
+       // Otherwise...
+        return false;
     }
 }
